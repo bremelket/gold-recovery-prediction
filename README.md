@@ -317,7 +317,7 @@ The project includes:
 ## 📧 Contact
 
 **Ekaterina Bremel**
-- LinkedIn: [Ekaterina Bremel](https://www.linkedin.com/in/ekaterina-bremel-65b1b1238/)
+- LinkedIn: [Ekaterina Bremel](https://www.linkedin.com/in/ekaterina-bremel)
 - Email: bremelket@gmail.com
 - GitHub: [@bremelket](https://github.com/bremelket)
 
