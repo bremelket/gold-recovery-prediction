@@ -318,7 +318,7 @@ The project includes:
 
 **Ekaterina Bremel**
 - LinkedIn: [https://www.linkedin.com/in/ekaterina-bremel-65b1b1238/]
-- Email: bremelketl@email.com
+- Email: bremelketl@gmail.com
 - GitHub: @bremelket
 
 ---
